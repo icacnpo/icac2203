@@ -1,0 +1,77 @@
+---
+weight: 2022
+Xweight: 20220527
+title:              "CEO Letter    Kwai Chu So 2022.05     "
+title2:              " about_us_01_01_ceo "
+date:        2022-05-27T10:01:51-05:00
+type:               "about"
+author:
+ - kcso
+tags:
+ - ceo01_kcso
+ - blog
+ - icacnpo
+ - 2022_05
+ - 2022_0527
+categories:
+ - 2022_0527
+draft: false
+#resImgTeaser:  teaserpics/pixabay.com/contact-2860030_640.jpg
+#icon:               "far fa-address-card"
+---
+
+
+
+
+
+# CEO 家書       2022. 05      蘇貴珠
+
+
+有順有逆, 有聚有散﹔這就是人生,  這就是歷練！
+
+華粵學院在成立後第三個月已有卅多位義工加入，來自世界各地。五個月來不斷有人加入﹐也不斷有人離開﹐這也是常事。只要大家仍在努力推動正體中文與粵語，我們的心還是在一起的！
+
+每位義工加入都經過我邀請﹑聯繫﹑編組﹑溝通及安排工作﹔而每位暫別或離開時都由我去了解﹑跟進及作離任後安排， 當中的乍喜乍悲﹔忽哀忽樂， 相信唯有我體會最深！
+
+經過四個月辛勤地處理各項註冊及各項文件呈交工作，華粵學院不單已註冊為美國非營利組織，可接受捐款， 而且已獲美國國稅局捐款免稅資格，一切好像殊不簡單，卻又事事都按步就班，緊跟美國法例要求完成！接著，還有更多獲此資格後可申請的籌款渠道，原來仲有咁多程序，原來我哋仲喺起步階段啊！
+
+但不可叫人少看我哋只係幾個月大，一班義工已在磨拳擦掌，有些組別經過多次開會商討工作，有些已推出活動，有些已快速分工做實事，活動宣傳附上精美圖片及影音製作， 我像慈母陪伴及鼓勵孩子勇於嘗試及積極行動，當看到兒女做出成果時，那種滿懷安慰的感覺﹐也真的可能只有媽媽可以完全體會。
+
+當然， 逆境是考驗決心與智慧的試金石！華粵學院正是璞玉待雕，面對一切難關總會迎難而上。第五個月我們已看到義工能否按董事局規則工作，是否配合我們的管理，會否跳過我們的監察，有否超越了我們授予的權限。 做事不難，管人最難，難也要管，管教從嚴！
+
+慶幸不乏深明當中訣竅的義工， 他們不但緊守崗位，努力完成任務，接受鄙人意見，明白背後意義，在別人離去時仍願繼續為華粵學院奔馳，在部份組員不作為時願承擔更大責任。
+
+在此謹向每一位曾為華粵學院付出的義工致謝，無論大家或聚或散， 請不要忘記我哋共有的使命：“光復粵語！還我正體！“ 任重道遠，一齊努力。
+
+
+
+
+# CEO Letter    2022.05     Kwai Chu So
+
+This is life. Life is a test: people come, people go; times get easy, times get rough!
+
+After just three months, our newly established ICAC had already welcomed more than thirty volunteers from different parts of the world. In these five months I witnessed people continually joining while some leaving; the latter by the way is also normal. As long as those who have left are still promoting traditional Chinese and Cantonese in other ways, our hearts will always be together!
+
+I invited, contacted, organized, communicated and arranged tasks with every new volunteer; and for those who decided to leave I took the initiative to understand the reasons behind and made sure that things would be properly organized. Instances of joy mingled with instances of unexpected loss have created a huge impact on me!
+
+After four months of hard work in handling registration with submission of documents, ICAC is now approved as a US registered non-profit organization with 501(c)3 tax exempt status which allows all those US donors to be tax deductible for their donation to our Institute. The legal procedures of registration were tedious and had to be followed step-by-step meticulously. Further steps are now needed to seek approval for more fundraising channels. I started to realize that we are still in the very beginning of our operation and mission though we have already accomplished many uneasy tasks in her first few months!
+
+Determined not to let anyone look down on ICAC in her initial stage, our volunteers have already been earnestly in action: some groups have held a series of meetings; some groups have organized events and some groups have got assigned tasks. Events will be supported by beautiful pictures and informative videos. My role has been a caring and encouraging mother, by the side of my children who are positive and eager to try new things. That kind of satisfaction might only be fully appreciated and felt by a mother.
+
+Needless to say, adversity is the litmus test for our determination and wisdom! ICAC is like a piece of jade waiting to be polished. We are steadfast to grow despite difficulties. In this fifth month we have already met the challenge of whether volunteers could work according to the Board’s guidelines, whether they could cooperate with our Management, whether they would step outside our oversight, and whether they would breach their delegated authority. Managing people is more difficult than managing tasks, yet we vow to manage straightly according to the rules set by our Organization and the U.S. Law.
+
+We are glad to have volunteers who understand the need for teamwork. Not only were they dedicated to their tasks, appreciated our suggestions and understood our rationale behind, they were also unaffected by their departed fellow volunteers – some even took the initiative to step in to take on more responsibilities.
+
+Last but not least, I would like to take this opportunity to thank each and every volunteer who has contributed to ICAC. Whether you come or you go, do remember our shared mission: “Speak Cantonese! Write traditional Chinese! ” Let’s put our joint efforts behind these important and far-reaching tasks!
+
+
+
+
+
+
+
+{{< mypdf1 pdf="ceo_letter_2022_05_both_version_1_1.pdf.pdf"
+text="PDF format, PDF 文件"
+link="ceo_letter_2022_05_both_version_1_1.pdf.pdf"
+>}}
+

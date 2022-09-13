@@ -1,0 +1,11 @@
+{{ define `search` }}
+<a> aaa 02 </a>
+{{- if or $.Site.Params.debug (findRE `\bhtml-comment\b` $.Site.Params.traceFlags) }}
+<a> aaa 03 </a>
+{{- `<!-- pages/search/single.html (search) -->` | safeHTML }}
+<a> aaa 04 </a>
+{{- end}}
+<a> aaa 05 </a>
+  {{ partial `search.google.gcse.html` . }}
+<a> aaa 06 </a>
+{{ end }}
